@@ -63,26 +63,20 @@ Vin A 0 PULSE 0 5 0 1n 1n 10n 20n
 ```
 ### Cmos schematic
 
-hehtethehte
-
-
+<img src ="assts/Cmos sch.png">
 
 ### Cmos layout
 
-hehete
+<img src ="assts/cmos layout.png">
 
+### Cmos waveform
 
+<img src="assts/Cmos trans .png">
 
+### Cmos dc response
 
+<img src="assts/dc response .png">
 
-### Cmos waveform 
-
-sryeyeth
-
-
-### Cmos dc response 
-
-erheythe
 
 
 
